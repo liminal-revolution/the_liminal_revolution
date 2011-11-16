@@ -1,0 +1,734 @@
+Facebook musings on hypermateriality and the changing of the role of the subconscious in marketing
+
+between Cody Kennedy and Edouard Urcadez (Facebook)
+date unknown
+
+2:32
+i realized that facebook has a huge design flaw (which might actually be on purpose weirdly)
+
+
+
+2:32
+Edouard Urcadez
+2:32
+http://www.youtube.com/watch?v=rBNQf1t3Bn8&feature=player_embedded
+2:32
+what is the flaw
+
+
+
+2:34
+Cody Kennedy
+2:34
+okay so one of the big changes imho facebook made technically was like making rollover things perform an automatic selection of the css inside whatever is in said rollover assumedly to accelerate your ability to click through facebook
+2:35
+therefore once you rollover something you're selecting the page and your keyboard defaults back to the page
+2:36
+and most browsers use delete to shortcut the back button
+2:36
+so you write something, you rollover something and then click delete and you've told your browser to go back
+2:37
+and also it used to be that input wasn't really tied to a javascript function
+2:37
+(probably a php function but whatever)
+2:37
+so if you did in fact go to another page and go back to the previous page you wouldn't lose what you had input
+2:37
+but now you do
+
+
+
+2:38
+Edouard Urcadez
+2:38
+oo
+2:38
+Edouard Urcadez disconnected
+
+
+
+2:41
+Cody Kennedy
+2:41
+and not only that but even things like video and photo embeds have more programming involved in the processing and selecting of hyperlinks to automatically select content inside the hyperlink
+2:43
+Edouard Urcadez connected
+
+
+
+2:43
+Edouard Urcadez
+2:43
+oo
+
+
+
+2:43
+Cody Kennedy
+2:43
+for instance, when you embed a link, you're no longer able to edit the link description
+2:43
+and then i also commented on the share button reappearing
+2:45
+when the share button reappeared i noticed that when you share something you're forced to keep the exact contents of what you're sharing the same and the content inside the share is grey and put into a separate class alongside your 'comments' on the thing you're sharing
+2:45
+but your comments are full size and black
+2:46
+i think what facebook is trying to do is focus the content on simplicity and speed and eliminate any possibility of misrepresentation
+2:48
+but in the example that i started off this thought with, the duration and permanence of a page is effectively smaller.
+2:49
+which basically means facebook is subconsciously pushing you to do things quickly and without hesitation, lest the page, bearing an absolute minimum of permanence 'disappear'
+
+
+
+2:49
+Edouard Urcadez
+2:49
+lolololol
+
+
+
+2:50
+Cody Kennedy
+2:50
+not only due to user error but also the natural flow of the website, which is basically to click as much as possible
+2:50
+as fast as possible
+2:52
+i think this creates an interesting dynamic, where the effectiveness of content created by facebook users is based upon its readability in the user's periphery, basically making them subliminal messages
+
+
+
+2:54
+Edouard Urcadez
+2:54
+gm
+2:54
+hm
+
+
+
+2:54
+Cody Kennedy
+2:54
+being that facebook is so massively popular and overbearing i can only imagine they ALSO want to shift the way people think, the way information is transmitted to the brain
+
+
+
+2:54
+Edouard Urcadez
+2:54
+that's a really weird way to think about but i don't even really doubt they're trying to change the way people communicate
+2:54
+on an innate level
+
+
+
+2:55
+Cody Kennedy
+2:55
+this is hugely hugely relevant to the idea of ads not being there for you to click but rather simply seen and consumed in the user's subconscious
+2:55
+so now when facebook allows burger king to advertise on their sidebar
+2:56
+their users are not only 'seeing' this content but ALSO actively searching for it and scanning it for its relative value as content
+
+
+
+2:57
+Edouard Urcadez
+2:57
+o god
+
+
+
+2:58
+Cody Kennedy
+2:58
+if the thing we've just scanned is 'STACKERS ARE EASY AS $1, $2, $3,' rather than 'EAT BURGER KING ITS DELICIOUS'
+2:58
+the message to our subconscious is now stronger, i mean what if that ad had a link to a relevant film screening or our favorite band was in town?
+
+
+
+2:59
+Edouard Urcadez
+2:59
+omg
+
+
+
+2:59
+Cody Kennedy
+2:59
+so the quality of advertisement becomes more subtle, more full of symbols and hidden syntax
+3:00
+since our brain would just output disgust and distaste at ideas about burger king's corporate identity
+3:01
+or even the word burger being associated to greasy foods and bad health
+3:01
+i think a prime example is pepsi
+3:02
+instead of using the image of soda or gatorade or people playing sports or people enjoying themselves because they've just had some pepsi
+3:03
+they broke the first rule of advertising and shifted each brand's visual identity and provided little to no explanation for it
+3:03
+i mean in the past there would be pretty long commercials associating the word pepsi to the new symbol
+3:04
+or at its most annoying, stuff like that series of cell phone provider mergers where they had the symbols actually merging
+3:04
+to let people know there was a merger
+
+
+
+3:04
+Edouard Urcadez
+3:04
+loolloolol
+3:05
+such good imagery
+
+
+
+3:05
+Cody Kennedy
+3:05
+and then of course the bottom of the barrel, like commercials where someone steps in front of the camera and says 'phototek inc is now tekphoto!'
+
+
+
+3:05
+Edouard Urcadez
+3:05
+LOL
+
+
+
+3:06
+Cody Kennedy
+3:06
+pepsi bypassed these conventions and absolutely decimated users subconscious
+3:06
+being that they were always at odds with the 'legacy' of red and white coca cola
+3:07
+the color combination even proven to make users produce more dopamine when drinking the exact same liquid
+
+
+
+3:08
+Edouard Urcadez
+3:08
+wow
+3:08
+tht's amazing
+
+
+
+3:08
+Cody Kennedy
+3:08
+pepsi also released the ingenious campaign of cross brand 'nostalgia,' which i guarantee they would have never thought possible before the internet
+3:09
+in the form of 'throwback,' which is also present in frito lay products, which is owned by pepsi
+3:10
+i mean the market of people who actually have nostalgia for the 'old doritos' is absurdly small
+3:10
+'old pepsi'
+3:10
+'old mountain dew'
+3:10
+it's an absolutely ridiculous idea
+
+
+
+3:11
+Edouard Urcadez
+3:11
+lololol
+3:11
+i love the throwback cans
+3:11
+they look rather attractive
+
+
+
+3:12
+Cody Kennedy
+3:12
+in fact, people that actually have nostalgia for old packaging would most certainly respond with an insane amount of nostalgia and overall positivity (ie dopamine) to pull top cans
+3:12
+i mean i have to say that i totally would buy shit with pull top cans
+
+
+
+3:14
+Edouard Urcadez
+3:14
+hmm
+3:14
+yewah
+
+
+
+3:14
+Cody Kennedy
+3:14
+if a smaller beer company reintroduced pull top cans with decent beer for a slightly higher price than say pabst or coors, they would absolutely receive their initial investment in manufacturing back overnight
+
+
+
+3:15
+Edouard Urcadez
+3:15
+olololol
+
+
+
+3:16
+Cody Kennedy
+3:16
+it would become a fad and the beer would kill in 2 distinct markets, people used to the idea of doing things for nostalgic purposes and willing to suffer a loss in convenience in order to experience something 'new' but 'old'
+3:16
+ie hipsters
+
+
+
+3:16
+Edouard Urcadez
+3:16
+ho ho ho ho
+3:16
+i think hipster is such a meaningless dated term
+
+
+
+3:16
+Cody Kennedy
+3:16
+and then middle-to-high class working stiffs who actually remember drinking them
+
+
+
+3:16
+Edouard Urcadez
+3:16
+i know too many people that use it for all the wrong reasons
+
+
+
+3:17
+Cody Kennedy
+3:17
+ok but i'm trying to use it to describe a market not place emphasis on its societal cultural value
+
+
+
+3:17
+Edouard Urcadez
+3:17
+lollolol
+3:18
+ok
+3:18
+i get it
+
+
+
+3:18
+Cody Kennedy
+3:18
+this is i think what the problem is with people today, as soon as a term is used in a negative context by a single guy on the internet, the change sweeps and the term is no longer functional
+3:18
+ugh 'people today'
+3:19
+i'm going to restate when i copypasta this into my 'random thoughts' note on notational velocity
+
+
+
+3:19
+Edouard Urcadez
+3:19
+oh
+
+
+
+3:20
+Cody Kennedy
+3:20
+where i'm now also going to habitually prescreen longer facebook posts before facebook totally fucks over my ability to think of anything before it gets decimated
+3:21
+haha god 'people today' is such a douchey comment because everyone's a person today
+3:21
+i have to more openly embrace my generation
+3:22
+oh my god okay so every single time i turn on shuffle for itunes the same fucking tom petty song plays that i got from raiding my dad's cd collection
+3:22
+and i hate it so much
+
+
+
+3:23
+Edouard Urcadez
+3:23
+looolol
+3:23
+LOLOLLO
+3:23
+why don't you improve your quality of life and delete it
+
+
+
+3:23
+Cody Kennedy
+3:23
+anyway i'm going to finally wrap up this point so i can just copy it all
+3:24
+Edouard Urcadez disconnected
+
+
+
+3:24
+Cody Kennedy
+3:24
+okay so pepsico's aggressively futuristic ad campaign went largely unnoticed by the general public, exactly according plan
+3:25
+Edouard Urcadez connected
+
+
+
+3:26
+Edouard Urcadez
+3:26
+hm
+3:26
+yes
+
+
+
+3:27
+Cody Kennedy
+3:27
+and i wouldn't doubt the marketing executives who detailed it put together huge combined forces in the ad industry to make something that absolutely airtight in regards to big business having to simultaneously become future proof and recession proof
+
+
+
+3:28
+Edouard Urcadez
+3:28
+lololl
+
+
+
+3:28
+Cody Kennedy
+3:28
+i wouldn't be surprised if the crossover between pepsi and apple that started when jobs left and that pepsi CEO became president worked as like a hugely valuable and mostly secret weapon
+3:29
+apple has a mastery of the exact same tactic of working almost exclusively in the subconscious realm
+
+
+
+3:30
+Edouard Urcadez
+3:30
+oh god
+3:31
+Edouard Urcadez disconnected
+
+
+
+3:31
+Cody Kennedy
+3:31
+wikipedia: 'John Sculley is best known for his marketing skills, particularly in his introduction of the Pepsi Challenge'
+3:32
+the first and most famous ad campaign that comes to mind that actually explicitly engages the subconscious realm
+
+
+
+3:43
+Cody Kennedy
+3:43
+facebook is no stranger to keeping their nose incredibly close to the grindstone when aggressively pushing out updates and feature changes to keep up with (in some cases improve upon) the latest new thing in social networking, or gaming or whatever, which i'm sure can be applied across fields like programming, data management, system integration, and 'backgrounded' processes familiar to engineers
+3:44
+the reason i bring this up is to connect it as an analogy to the life of the subconscious, which functions much like a computer, smoothly and efficiently managing the i/o of stimuli we don't regularly recognize
+3:46
+with one essential difference
+3:49
+Edouard Urcadez connected
+
+
+
+3:49
+Cody Kennedy
+3:49
+the webpage starts out as binary code on a server, symbolically linked to a stack of languages, called LAMP (linux, apache, mysql, php)
+
+
+
+3:51
+Edouard Urcadez
+3:51
+oh god
+
+
+
+3:51
+Cody Kennedy
+3:51
+while one could say that the universe is essentially randomized at its core components due to ideas in quantum physics, the computer is probably the first thing in existence that will give you 100% predictable anything
+3:55
+you can't tune a piano and have 100% certainty that it will play the right note, a note at all but when all the components of a computer are turned on and not broken, if you put something into it, you'll receive something unequivocally exact.  to further extend this idea, a computer must 'work' to be randomized and with online poker's being 'doubted' for its claims of randomness could easily be a monumental example of how public perception has turned 180%
+
+
+
+3:55
+Edouard Urcadez
+3:55
+oh god
+
+
+
+3:56
+Cody Kennedy
+3:56
+instead of working to make something exact and doubting its exactness we must work to make things random and anything not exact or predictable is suspect
+3:57
+take for example the phenomena of people being annoyed at changes in facebook, which is the genesis of this monologue anyway
+3:58
+the creators of facebook work very hard to change something that will otherwise not change and remain stagnant
+4:00
+the users, used to perceptual reality and not computer reality, see this as a betrayal, much as price fixing in baseball (someone working very hard to make something exact and predictable) was a betrayal of a national past time
+4:04
+the theoretical 'bet' that we would normally make with reality to return us with something random has turned into a bet we make that something will be the same
+4:05
+i think this phenomena is especially strange given the reputation of the internet being a place of hypermateriality and the viewing of constant upgrade to be a good thing!
+
+
+
+4:07
+Edouard Urcadez
+4:07
+whoa
+4:07
+this is a lot of writing
+4:07
+are you writing in real time
+
+
+
+4:08
+Cody Kennedy
+4:08
+while hypermateriality among 'first adopters' is seen as a fun way to spend the afternoon, there are probably at least 1000 people that view the slightest change to be annoying and feel disgruntled by having to change the way they look and interact with something.
+4:09
+yeah i'm just trying to find a good finish
+
+
+
+4:09
+Edouard Urcadez
+4:09
+isn't it funny how there's writing
+4:09
+and righting
+
+
+
+4:09
+Cody Kennedy
+4:09
+HAH
+
+
+
+4:09
+Edouard Urcadez
+4:09
+righting 'to make things right'
+4:09
+they're like both the same thing
+
+
+
+4:10
+Cody Kennedy
+4:10
+oh by the way i don't mean to like cut you off by using a chat to write this
+
+
+
+4:10
+Edouard Urcadez
+4:10
+writing is done to make sense of it all
+4:10
+no way
+4:10
+i don't care it's fun
+4:10
+i just don't know if i  should jsut read it
+
+
+
+4:10
+Cody Kennedy
+4:10
+i'm gonna go ahead and copy and paste this
+
+
+
+4:10
+Edouard Urcadez
+4:10
+or respond
+4:10
+ok
+4:10
+cool
+
+ART CLOKEY BITCH
+
+it's my destiny
+art clokey is what you can be
+you can be the ever present eye of surrealism in popular culture
+you can be king of your dominion among the moldable shapes
+your reality is your own
+and nothing stops you from enacting your destiny if you do something or don't do it
+so you might as well do
+because there's no value in inaction
+
+
+fucking
+fucking
+
+
+LOLLOLO
+
+
+fucking
+fucking
+fucking
+fucking
+
+
+wat
+
+
+fucking
+fucking
+
+
+WAT
+????
+
+
+fucking
+fucking
+fucking
+
+
+??????
+??????????
+
+
+sorry i didn't want to make it seem like i was insane i just liked the idea of the column shape on facebook
+i'll screencap i
+
+
+??????olololol
+okay so
+right so i already mentioned i was inebriated
+i think 'wow i could possibly attach photos to facebook chat just by dragging them to the chat like in facebook messenger!'
+and then i do just that
+and drag the photo to the messenger in the browser
+the photo happens to be a screencap of facebook
+and then i think like nothing happened
+and i was like 'oh it didn't work'
+but then i realized that it was just the artifice of facebook
+in a png file
+and it blew my fuckin mind
+that was the coolest inadvertent stoned occurance
+ever
+okay but actually the coolest one was getting home after a pretty interesting night
+to see fucking http://www.google.com/
+as the first thing that pops up on my computer
+and i was like
+'masterpiece'
+'google has literally surpassed the title of art subject but is even its own forum on its own terms'
+i don't know why
+but the combination of feelings i had when playing with that shit
+was just like fucking pure joy
+its so simple yet so perfect
+and is actually the logical end to a beginning
+and then shit like 'Art finished film school at USC'
+so definitive
+like i have to do it
+
+god
+i should just like post that on facebook right now.
+fuck it.
+http://i53.tinypic.com/2n0r779.jpg
+http://i54.tinypic.com/73fhva.png
+screencaps of the exact same time period of the cat
+chat
+it was really weird suddenly my column had been destroyed
+WHERE DID MY COLUMN GO
+omfg reading that chat back made me want to like cry or something
+i dunno it's weird how i just totally realized that a moment 'was' nostalgia
+and then instantaneously created nostalgia
+and then i had a remote, distanced sort of feel from the words written, as if they were the brilliant and honorable version of like a time capsule that you send yourself in the mail 10 years into the future
+like imagine if your 5 year old self was just a complete shattering genius
+and then you read shit that you had written when you were 5
+that no one else but your family had read
+and you just collapse into it
+but imagine that happening like a couple of times within like 10 minutes
+that's basically what just happened
+in my brain
+like imagine the most pretentious thought in the world being physically expressed by someone like michel gondry
+is basically what was going on in my brain
+literally a cascading waterfall of self-delusion and obsession
+of course i'm never able to recreate these experience
+s
+language has failed so far
+so basically i'm resorted to being an alien
+like as if people i was around were like citizens on the arrival of soldiers coming back from the war without even shaking the thousand yard stare
+motherfuckers just don't understand
+shit is real
+shit is alive
+but i can't even express the goddamn thought
+and i just think it's like shockwaves
+your feeble brain is unable to access things only accessible in the realm of chemical alteration
+so you get high
+the thing that you do while you're high is unexplainable
+you then have bring it back down to earth just by relating to people and the subconscious desires manifest themselves without your even noticing
+suddenly you get obsessed with b-movies
+or shakespeare
+or fucking just wood
+like you think 'i should surround myself with a variety of wooden furniture with particular smells'
+and then you think your life would be so much better with that thing
+because you thought of it when you were high and it holds an extra-real quality
+so those desires become fandoms
+you can induce a high simply from being super bored
+which is what prayer is
+but if you truly merge with the self, you're 'high' 24/7, which is what surrealists are
+they're opposed to religion because they believe their metaphysical deities do not start or end or that they can only be found under certain particular dogmatic rules
+but the danger is insanity
+upon entrance into the space of the artist
+insanity is always going to be the extreme of your failures
+if you fail as an artist, you don't get a side gig as a backing guitarist
+you just go insane
+your convictions for whatever reason fail to allow you to exist
+therefore you officially get a score of 0 on the leaderboard
+and your legacy is literally 'remember when we saw that hobo'
+which i guess is kind of a scary decision
+if you dive into something with absolute conviction, the extremities of that convicton become the risk factor
+you have extreme thoughts and you fail, you're literally just a speedbump
+but if you have extreme thoughts and you prove to be right, you become like a god among men
+i honestly think the idea of someone becoming an artist purely for their love of it is actually a terrifying and disturbing thought
+become a veternarian if you love it
+if you love art you probably shouldn't be an artist
+you should be an artist if the hobo gig doesn't work itself out
+because you're already fucking crazy you might as well blow peoples minds
+
